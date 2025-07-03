@@ -1,5 +1,5 @@
-
-![cofounder-og-black](https://github.com/user-attachments/assets/b4e51f02-59e4-4540-ac14-e1f40e20a658)
+# I am not a developer! This is FORK for testing and experiments!
+I want to try without OpenAI on local neural networks.
 
 # Cofounder | Early alpha release
 
